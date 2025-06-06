@@ -1,0 +1,103 @@
+Index,Flower Name,Num Samples,Flower Type,Symmetry,UK Bloom Season,Reference,Flowers102 Label
+1.0,Alpine Sea Holly,43,Multiple,Symmetrical,July–September,rhs,94.0
+2.0,Buttercup,71,Multiple,Symmetrical,April–August,rhs,72.0
+3.0,Fire Lily,40,Multiple,Symmetrical,May–July,rhs,96.0
+4.0,Anthurium,105,Single,Symmetrical,Year-round (indoors),rhs,40.0
+5.0,Californian Poppy,102,Single,Symmetrical,June–October,rhs,25.0
+6.0,Foxglove,162,Multiple,Asymmetrical,June–September,rhs,54.0
+7.0,Artichoke,78,Single,Symmetrical,July–August,rhs,104.0
+8.0,Camellia,91,Single,Symmetrical,October–May,rhs,56.0
+9.0,Frangipani,166,Multiple,Symmetrical,July–October (indoors),rhs,41.0
+10.0,Azalea,96,Multiple,Symmetrical,March–June,gardenersworld,32.0
+11.0,Canna Lily,82,Multiple,Asymmetrical,June–October,rhs,50.0
+12.0,Fritillary,91,Single,Symmetrical,March–May,rhs,98.0
+13.0,Ball Moss,46,Multiple,Symmetrical,April–June (indoors),rhs,18.0
+14.0,Canterbury Bells,40,Multiple,Symmetrical,May–July,rhs,2.0
+15.0,Garden Phlox,45,Multiple,Symmetrical,June–September,rhs,107.0
+16.0,Balloon Flower,49,Single,Symmetrical,July–August,rhs,53.0
+17.0,Cape Flower,108,Multiple,Symmetrical,August–November,rhs,61.0
+18.0,Gaura,67,Multiple,Asymmetrical,June–October,gardenersworld,81.0
+19.0,Barberton Daisy,127,Single,Symmetrical,May–September,rhs,65.0
+20.0,Carnation,52,Single,Symmetrical,June–August,rhs,106.0
+21.0,Gazania,78,Multiple,Symmetrical,June–October,rhs,31.0
+22.0,Bearded Iris,54,Single,Symmetrical,May–June,rhs,28.0
+23.0,Cautleya spicata,50,Multiple,Asymmetrical,July–September,rhs,85.0
+24.0,Geranium,114,Multiple,Symmetrical,May–September,rhs,82.0
+25.0,Bee Balm,66,Multiple,Symmetrical,July–September,gardenersworld,52.0
+26.0,Clematis,112,Multiple,Symmetrical,March–October,gardenersworld,42.0
+28.0,Bird of Paradise,85,Single,Asymmetrical,April–June (indoors),rhs,7.0
+29.0,Colt's-foot,87,Single,Symmetrical,February–April,rhs,11.0
+30.0,Globe Thistle,45,Multiple,Symmetrical,July–September,rhs,9.0
+31.0,Bishop of Llandaff,109,Single,Symmetrical,July–November,rhs,80.0
+32.0,Columbine,86,Multiple,Symmetrical,May–June,rhs,44.0
+33.0,Globe-flower,41,Single,Symmetrical,May–July,rhs,15.0
+34.0,Black-eyed Susan,54,Single,Symmetrical,July–October,thespruce,23.0
+35.0,Common Dandelion,92,Single,Symmetrical,April–June,thespruce,74.0
+36.0,Grape Hyacinth,41,Multiple,Symmetrical,March–May,rhs,100.0
+38.0,Corn Poppy,41,Single,Symmetrical,June–September,rhs,101.0
+39.0,Great Masterwort,56,Multiple,Symmetrical,May–July,rhs,62.0
+40.0,Blanket Flower,49,Multiple,Symmetrical,June–September,rhs,21.0
+41.0,Cyclamen,154,Single,Symmetrical,Late summer–early spring,rhs,48.0
+42.0,Hard-leaved Pocket Orchid,60,Single,Asymmetrical,Late winter–early summer,rhs,1.0
+43.0,Bolero Deep Blue,40,Single,Symmetrical,June–July,rhs,69.0
+44.0,Daffodil,59,Single,Symmetrical,January–May,rhs,66.0
+45.0,Hibiscus,131,Single,Symmetrical,May–October (indoors),rhs,43.0
+46.0,Bougainvillea,128,Multiple,Symmetrical,March–October (indoors),rhs,55.0
+47.0,Desert Rose,63,Single,Symmetrical,April–July (indoors),rhs,45.0
+48.0,Hippeastrum,76,Single,Symmetrical,December–March (indoors),rhs,91.0
+49.0,Bromelia,63,Single,Symmetrical,Spring–Summer (indoors),thespruce,20.0
+50.0,English Marigold,65,Single,Symmetrical,May–October,rhs,4.0
+51.0,Japanese Anemone,55,Single,Symmetrical,August–October,rhs,86.0
+52.0,King Protea,49,Single,Symmetrical,April–June (indoors),thespruce,12.0
+53.0,Peruvian Lily,82,Multiple,Symmetrical,June–October,gardenersworld,17.0
+54.0,Stemless Gentian,66,Single,Symmetrical,May–July,rhs,103.0
+55.0,Lenten Rose,67,Single,Symmetrical,January–April,rhs,64.0
+56.0,Petunia,258,Multiple,Symmetrical,June–October,rhs,92.0
+57.0,Sunflower,61,Single,Symmetrical,July–September,rhs,78.0
+58.0,Lotus,137,Single,Symmetrical,July–September (indoors),rhs,38.0
+59.0,Pincushion Flower,59,Single,Symmetrical,May–October,thespruce,97.0
+60.0,Sweet Pea,56,Multiple,Symmetrical,June–October,rhs,3.0
+62.0,Pink Primrose,40,Single,Symmetrical,May–July,thespruce,0.0
+63.0,Sweet William,85,Multiple,Symmetrical,May–August,gardenersworld,105.0
+64.0,Magnolia,63,Single,Symmetrical,March–June,rhs,47.0
+65.0,Pink-Yellow Dahlia,109,Single,Symmetrical,July–October,gardenersworld,84.0
+66.0,Sword Lily,130,Multiple,Symmetrical,June–August,rhs,67.0
+67.0,Mallow,66,Single,Symmetrical,May–October,rhs,57.0
+68.0,Poinsettia,93,Single,Symmetrical,December (indoors),gardenersworld,68.0
+69.0,Thorn Apple,120,Single,Symmetrical,July–October,rhs,35.0
+70.0,Marigold,67,Single,Symmetrical,June–October,gardenersworld,71.0
+71.0,Primula,93,Single,Symmetrical,February–May,rhs,77.0
+72.0,Tiger Lily,45,Single,Symmetrical,July–September,rhs,89.0
+73.0,Mexican Aster,40,Single,Symmetrical,July–October,rhs,58.0
+74.0,Prince of Wales Feathers,40,Multiple,Symmetrical,July–September,rhs,102.0
+75.0,Toad Lily,41,Single,Symmetrical,September–October,rhs,39.0
+76.0,Mexican Petunia,82,Single,Symmetrical,May–September,thespruce,19.0
+77.0,Purple Coneflower,85,Single,Symmetrical,June–August,rhs,16.0
+78.0,Tree Mallow,58,Single,Symmetrical,July–September,rhs,46.0
+79.0,Monkshood,46,Single,Symmetrical,June–August,rhs,8.0
+80.0,Red Ginger,42,Single,Symmetrical,August–October (indoors),gardenersworld,99.0
+81.0,Tree Poppy,62,Single,Symmetrical,July–October,rhs,30.0
+82.0,Moon Orchid,40,Single,Symmetrical,Year-round (indoors),rhs,6.0
+83.0,Rose,171,Single,Symmetrical,May–October,rhs,34.0
+84.0,Trumpet Creeper,58,Multiple,Symmetrical,July–September,rhs,22.0
+85.0,Morning Glory,107,Single,Symmetrical,June–September,gardenersworld,36.0
+86.0,Ruby-lipped Cattleya,75,Single,Symmetrical,Autumn (indoors),ukhouseplants,60.0
+87.0,Wallflower,196,Single,Symmetrical,March–June,rhs,70.0
+88.0,Orange Dahlia,67,Single,Symmetrical,July–October,rhs,83.0
+89.0,Siam Tulip,41,Single,Symmetrical,July–September (indoors),rhs,63.0
+90.0,Water Lily,194,Single,Symmetrical,June–September,rhs,33.0
+91.0,Osteospermum,61,Single,Symmetrical,May–September,gardenersworld,26.0
+92.0,Silverbush,52,Single,Symmetrical,May–September,rhs,24.0
+93.0,Watercress,184,Multiple,Symmetrical,May–October,rhs,49.0
+94.0,Oxeye Daisy,49,Single,Symmetrical,May–September,woodlandtrust,73.0
+95.0,Snapdragon,87,Multiple,Asymmetrical,June–October,gardenersworld,10.0
+96.0,Wild Pansy,85,Single,Symmetrical,April–September,wildflowerfinder,93.0
+97.0,Passion Flower,251,Single,Symmetrical,July–September,rhs,37.0
+98.0,Spear Thistle,48,Single,Symmetrical,July–October,wildlifetrusts,13.0
+99.0,Windflower,54,Single,Symmetrical,March–April,gardenersworld,29.0
+100.0,Pelargonium,71,Single,Symmetrical,April–October,rhs,79.0
+101.0,Spring Crocus,42,Single,Symmetrical,February–March,rhs,27.0
+102.0,Yellow Iris,49,Single,Symmetrical,May–June,rhs,14.0
+,Wild Pansy,251,Multiple,Symmetrical,Spring–Summer,gardeningknowhow,76.0
+,Wild Ginger,184,Single,Symmetrical,April–June,wildflower.org,88.0
+,Black Tulip,154,Single,Symmetrical,Mid–Late Spring,brecks.com,87.0

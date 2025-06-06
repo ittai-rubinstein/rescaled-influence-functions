@@ -1,0 +1,25 @@
+name: rif_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - pytorch
+  - torchvision
+  - tqdm
+  - spacy
+  - scikit-learn
+  - pip
+  - transformers
+  - datasets
+  - openl3
+  - soundfile
+  - pytorch_tabnet
+  - opencv-python
+  - Pillow
+  - lmdb
+
+channel_priority: strict
