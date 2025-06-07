@@ -1,9 +1,8 @@
-# Reproducibility Materials for "Rescaled Influence Functions"
+# Reproducibility Materials for "Rescaled Influence Functions: Accurate Data Attribution in High Dimensions"
 
-**Anonymous Author(s)**  
-Affiliation  
-Address  
-Email  
+**Ittai Rubinstein, Samuel B. Hopkins**  
+EECS and CSAIL, MIT, Cambridge, MA  
+[ittair@mit.edu](mailto:ittair@mit.edu), [samhop@mit.edu](mailto:samhop@mit.edu)
 
 This repository contains the reproducibility code and data for the paper _"Rescaled Influence Functions: Accurate Data Attribution in High Dimension"_ (under review). It includes all scripts and code required to reproduce the experiments, figures, and tables in the paper.
 
